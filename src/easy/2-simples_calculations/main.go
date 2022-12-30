@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+/*
+ -- What do we learn ?
+ -- How to use simples operators !
+ -- Hmmm ... okay ...
+*/
 func main() {
 	x := 5
 	y := 4
