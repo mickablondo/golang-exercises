@@ -19,6 +19,6 @@ func main() {
 	fmt.Println("\n How do you write your name ?")
 	name := "MiK@"
 	for i, c := range name {
-		fmt.Println("Letter ", i, " is ", string(c))
+		fmt.Println("Letter ", i+1, " is ", string(c))
 	}
 }
